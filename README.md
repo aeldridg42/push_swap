@@ -1,2 +1,3 @@
 # push_swap
-42 project
+very slow, but works fine
+leak in checker
