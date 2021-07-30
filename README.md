@@ -1,3 +1,4 @@
 # push_swap
-very slow, but works fine\n
+very slow, but works fine
+
 leak in checker
